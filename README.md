@@ -6,19 +6,6 @@ Full Stack Developer (MERN Stack)
 - 💬 Ask me about Tech
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/express-js.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/sqlite.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
 
 [![My Skills](https://skillicons.dev/icons?i=py,react,nextjs,html,css,js,tailwind,bootstrap,nodejs,express,mongodb,mysql,sqlite,flask)](https://skillicons.dev)
 
@@ -27,7 +14,7 @@ Full Stack Developer (MERN Stack)
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush-777x&theme=dark&show_icons=true&&hide=issues,contribs)
 
