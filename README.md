@@ -9,10 +9,10 @@ Full Stack Developer (MERN Stack)
 
 ### I code in
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap,nodejs,express,mongodb,mysql,sqlite,py,flask,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap,nodejs,express,mongodb,mysql,sqlite,py,flask&perline=5)](https://skillicons.dev)
 
 ### IDE and Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,obsidian,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,obsidian,neovim,figma&theme=dark)](https://skillicons.dev)
 
 
 ### 💻 Workspace Spec
