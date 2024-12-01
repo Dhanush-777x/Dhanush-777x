@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me Dhanush
 
 Full Stack Developer (MERN Stack)
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://dhanushsm.vercel.app/)                                                 
 - 💬 Ask me about Tech
 - 🖥️ Passionate about building interactive web applications
@@ -10,10 +9,10 @@ Full Stack Developer (MERN Stack)
 
 ### I code in
 
-[![My Skills](https://skillicons.dev/icons?i=py,react,nextjs,html,css,js,tailwind,bootstrap,nodejs,express,mongodb,mysql,sqlite,flask,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap,nodejs,express,mongodb,mysql,sqlite,py,flask,figma&perline=5)](https://skillicons.dev)
 
 ### IDE and Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,notion&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,obsidian,neovim&theme=dark)](https://skillicons.dev)
 
 
 ### 💻 Workspace Spec
