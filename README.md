@@ -63,7 +63,7 @@
 <!-- Web -->
 <p>
   <img src="https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-1e1e1e?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-1e1e1e?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Shell-1e1e1e?style=for-the-badge&logo=gnu-bash" />
 </p>
