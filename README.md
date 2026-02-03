@@ -18,8 +18,6 @@
   </p>
 </div>
 
-![GitHub User's stars](https://img.shields.io/github/stars/:Dhanush-777x)
-
 <p>
   I work on <strong>embedded systems and firmware</strong>, focusing on
   <strong>Edge AI / TinyML</strong>. I enjoy working close to the hardware where
