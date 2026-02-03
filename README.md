@@ -1,6 +1,8 @@
 <div align="center">
   <h2>Hey, I’m Dhanush 👋</h2>
   <p>Embedded Software Engineer · Firmware · Edge AI / TinyML</p>
+
+  [![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush-777x)](https://github.com/Dhanush-777x/github-readme-stats)
   
   <!-- Portfolio -->
   <p>
